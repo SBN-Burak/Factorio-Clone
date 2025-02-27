@@ -31,7 +31,7 @@ namespace Sandbox.Oyun.GUI
                 DrawColor = new Color(135,135,135)
             };
             logo = new Image(Anchor.Center, new Vector2(1, 1),
-                new TextureRegion(Globals.Content.Load<Texture2D>("Textures/logo")), scaleToImage: true) //factorioAILogoSand
+                new TextureRegion(Globals.Content.Load<Texture2D>("Textures/logo_game")), scaleToImage: true) //factorioAILogoSand
             {
                 ImageScale = new Vector2(2.5f,2.5f),
                 PositionOffset = new Vector2(0, -75)
@@ -67,8 +67,8 @@ namespace Sandbox.Oyun.GUI
                 }
                 else
                 {
-                    //AddProgressbarValue(_count / 20);
-                    AddProgressbarValue(_count);
+                    AddProgressbarValue(_count / 20);
+                    //AddProgressbarValue(_count);
                 }
 
             }

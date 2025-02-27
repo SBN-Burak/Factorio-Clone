@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cursed Park Tycoon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aef7b8db3fe6368257baf6743ddba89fde294f37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cursed Park Tycoon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cursed Park Tycoon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

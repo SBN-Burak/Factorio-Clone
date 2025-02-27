@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/white.png</SourceFile>
+  <SourceFile>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/white.png</SourceFile>
   <SourceTime>2024-10-10T23:13:24.1962209+03:00</SourceTime>
-  <DestFile>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/bin/MacOSX/Textures/white.xnb</DestFile>
-  <DestTime>2024-11-25T19:05:11.8206638+03:00</DestTime>
+  <DestFile>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/bin/MacOSX/Textures/white.xnb</DestFile>
+  <DestTime>2025-02-27T21:25:53.1924375+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T14:44:56+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

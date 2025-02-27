@@ -68,3 +68,5 @@ C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\ne
 C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\MLEM.dll
 C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\MLEM.Ui.dll
 C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\TextCopy.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.sourcelink.json
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\logo_game.xnb

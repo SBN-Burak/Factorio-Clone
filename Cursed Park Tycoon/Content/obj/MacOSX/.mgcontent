@@ -4,43 +4,45 @@
   <Platform>MacOSX</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Audios/button_hover.wav</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Audios/piano1.mp3</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Font/galleryFont.spritefont</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Shaders/CRTEffect.fx</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Shaders/Efektimizzz.fx</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Shaders/VignetteEffect.fx</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/benim.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/burnerDriller.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/burnerDriller1.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/Cinematic/watching_news.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/coal.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/conveyorBelt.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/furnace.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/furnace1.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/gate.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/İkonlar/craftingElement.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/İkonlar/cursor.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/İkonlar/inventoryElement.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/İkonlar/logistic_ikon.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/İkonlar/misc_ikon.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/İkonlar/production_ikon.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/iron.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/logo.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/mouse_selection.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/new_pistonlar.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/new_terrain_texture.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/particle_low_res.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/playerAtlas.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/sbn.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/stone.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/tree1.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/ui.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/wareHouse.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/water_terrain_texture.png</File>
-    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/white.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Audios/button_hover.wav</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Audios/piano1.mp3</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Font/galleryFont.spritefont</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Shaders/CRTEffect.fx</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Shaders/Efektimizzz.fx</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Shaders/VignetteEffect.fx</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/benim.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/burnerDriller.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/burnerDriller1.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/Cinematic/watching_news.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/coal.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/conveyorBelt.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/furnace.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/furnace1.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/gate.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/İkonlar/craftingElement.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/İkonlar/cursor.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/İkonlar/inventoryElement.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/İkonlar/logistic_ikon.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/İkonlar/misc_ikon.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/İkonlar/production_ikon.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/iron.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/logo_game.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/logo.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/mouse_selection.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/new_pistonlar.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/new_terrain_texture.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/particle_low_res.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/playerAtlas.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/sbn.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/stone.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/tree1.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/ui.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/wareHouse.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/water_terrain_texture.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Textures/white.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
