@@ -1,0 +1,17 @@
+[
+  {
+    "Tag": "slot_1",
+    "Item": "stone",
+    "Count": 999
+  },
+  {
+    "Tag": "slot_2",
+    "Item": "coal",
+    "Count": 999
+  },
+  {
+    "Tag": "slot_10",
+    "Item": "iron",
+    "Count": 999
+  }
+]

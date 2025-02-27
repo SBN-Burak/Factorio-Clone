@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Audios/button_hover.wav</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Audios/piano1.mp3</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Font/galleryFont.spritefont</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Shaders/Efektimizzz.fx</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Shaders/VignetteEffect.fx</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/coal.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/conveyorBelt.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/furnace.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/furnace1.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/iron.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/logo.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/logo2.PNG</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/mouse_selection.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/new_pistonlar.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/new_terrain_texture.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/particle_low_res.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/playerAtlas.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/professor.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/sbn.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/stone.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/tree1.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/ui.png</File>
+    <File>C:/Users/Burak/Documents/GitHub/Sandbox/Sandbox/Content/Textures/water_terrain_texture.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

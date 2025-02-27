@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/Font/galleryFont.spritefont</SourceFile>
+  <SourceTime>2023-11-06T18:09:56.4926891+03:00</SourceTime>
+  <DestFile>C:/Users/Burak/Documents/GitHub/CursedParkTycoon/Cursed Park Tycoon/Content/bin/DesktopGL/Content/Font/galleryFont.xnb</DestFile>
+  <DestTime>2025-02-27T20:51:02.7188018+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T14:44:56+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T14:44:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

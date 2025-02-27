@@ -1,0 +1,37 @@
+[
+  {
+    "Tag": "SBN_LOGO",
+    "Position": {
+      "X": 1250,
+      "Y": 600
+    }
+  },
+  {
+    "Tag": "SBN_LOGO",
+    "Position": {
+      "X": 1800,
+      "Y": 800
+    }
+  },
+  {
+    "Tag": "Furnace",
+    "Position": {
+      "X": 2200,
+      "Y": 850
+    }
+  },
+  {
+    "Tag": "Furnace",
+    "Position": {
+      "X": 2400,
+      "Y": 850
+    }
+  },
+  {
+    "Tag": "Furnace",
+    "Position": {
+      "X": 2600,
+      "Y": 850
+    }
+  }
+]

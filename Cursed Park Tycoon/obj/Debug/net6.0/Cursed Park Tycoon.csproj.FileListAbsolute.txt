@@ -1,0 +1,70 @@
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Cursed Park Tycoon.exe
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Cursed Park Tycoon.deps.json
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Cursed Park Tycoon.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Cursed Park Tycoon.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Cursed Park Tycoon.pdb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.csproj.CopyComplete
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\refint\Cursed Park Tycoon.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.pdb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\Cursed Park Tycoon.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\obj\Debug\net6.0\ref\Cursed Park Tycoon.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Audios\button_hover.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Audios\piano1.ogg
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Audios\piano1.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\button_hover.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\factorioAILogo.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Firin.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Font\galleryFont.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\kuru_agac.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Shaders\CRTEffect.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Shaders\Efektimizzz.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Shaders\VignetteEffect.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\benim.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\burnerDriller.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\burnerDriller1.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\Cinematic\watching_news.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\coal.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\conveyorBelt.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\furnace.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\furnace1.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\gate.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\iron.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\logo.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\logo2.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\mouse_selection.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\new_pistonlar.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\new_terrain_texture.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\particle_low_res.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\playerAtlas.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\sbn.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\stone.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\tree1.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\ui.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\wareHouse.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\water_terrain_texture.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\white.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\İkonlar\craftingElement.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\İkonlar\cursor.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\İkonlar\inventoryElement.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\İkonlar\logistic_ikon.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\İkonlar\misc_ikon.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Content\Textures\İkonlar\production_ikon.xnb
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\MLEM.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\MLEM.Ui.dll
+C:\Users\Burak\Documents\GitHub\CursedParkTycoon\Cursed Park Tycoon\bin\Debug\net6.0\TextCopy.dll
